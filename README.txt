@@ -1,4 +1,4 @@
-MS Fleet Service - Interactive Outlook Signature
+MS Fleet Service - Interactive Outlook Signature.
 
 This version keeps the exact visual design but slices it into linked sections.
 
